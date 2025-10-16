@@ -1,11 +1,1 @@
-python-3.11
-```
-
-2. Update `requirements.txt` to:
-```
-streamlit==1.28.1
-pandas==2.1.4
-plotly==5.18.0
-supabase==2.0.3
-reportlab==4.0.9
-tomli==2.0.1
+python-3.11.8
